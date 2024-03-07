@@ -1,0 +1,7 @@
+D:\Kuliah\Semester 2\Algoritma\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Kuliah\Semester 2\Algoritma\calculator\calculator\bin\Debug\calculator.exe
+D:\Kuliah\Semester 2\Algoritma\calculator\calculator\bin\Debug\calculator.pdb
+D:\Kuliah\Semester 2\Algoritma\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2\Algoritma\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Algoritma\calculator\calculator\obj\Debug\calculator.exe
+D:\Kuliah\Semester 2\Algoritma\calculator\calculator\obj\Debug\calculator.pdb
